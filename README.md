@@ -7,3 +7,4 @@ Then import the game.
 Enabled in global resources.
 
 Warning: Please use it for personal use only and do not use it for commercial purposes.
+Golzdea
